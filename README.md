@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MikevanBreePXL&layout=compact&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Sam's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MikevanBreePXL&count_private=true&show_icons=true&theme=onedark)
+![Mike's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MikevanBreePXL&count_private=true&show_icons=true&theme=onedark)
